@@ -1,14 +1,17 @@
-![A simple Business Card App Developed using Futter ](https://github.com/JaveedIshaq/javeedishaq-business-card-flutter-app/blob/master/javeedishaq-business-card-flutter-app-screenshot.png)
+![A simple Calculator App Developed using Futter ](https://github.com/JaveedIshaq/flutter-calculator/blob/master/Screenshot.png)
 
-# Mi Card
+# Flutter Calculator
 
 ## Goal
 
-Now that you've seen how to create a Flutter app entirely from scratch, we're going to go further and learn more about how to design user interfaces for Flutter apps.
+- Learn the Basic layout widgets Row and Coulmn
+- what is Expanded widget and How it works
 
 ## What I have created
 
 Mi Card is a personal business card. Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app.
+
+![A simple Calculator App Developed using Futter ](https://github.com/JaveedIshaq/flutter-calculator/blob/master/simulator.png)
 
 ## What I have learned
 
